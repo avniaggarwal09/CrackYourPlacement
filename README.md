@@ -1,4 +1,4 @@
-Crack Your Placement 2024 by Arsh Goyal
+**_Crack Your Placement 2024 by Arsh Goyal_**
 
 Welcome to my journey of completing the #CrackYourPlacement 2024 challenge by Arsh Goyal!
 This repository contains solutions to the DSA (Data Structures and Algorithms) sheet curated by Arsh Goyal, 
